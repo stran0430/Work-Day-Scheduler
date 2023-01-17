@@ -1,5 +1,8 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
+<img width="825" alt="sc-web-app" src="https://user-images.githubusercontent.com/115510413/212804757-be7ea4b4-e587-4ca6-9c01-0c5a16426a04.png">
+
+
 ## User Story
 
 ```md
@@ -26,6 +29,8 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 [Work Day Scheduler.webm](https://user-images.githubusercontent.com/115510413/212804685-67892b3e-4cd8-4421-845f-40399ec26e25.webm)
+
+
 
 
 ## Deployed Application
