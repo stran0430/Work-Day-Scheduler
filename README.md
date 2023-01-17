@@ -25,5 +25,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+[Work Day Scheduler.webm](https://user-images.githubusercontent.com/115510413/212804685-67892b3e-4cd8-4421-845f-40399ec26e25.webm)
+
+
 ## Deployed Application
 [Deployed Application](https://stran0430.github.io/Work-Day-Scheduler/)
